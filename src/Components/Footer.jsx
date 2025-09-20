@@ -17,10 +17,10 @@ function Footer() {
           <a href="https://www.instagram.com/superb_services_travel?igsh=cWF0N3R1OGxyMnJ0">
             <img src={Instagram} alt="" />
           </a>
-          <a href="https://www.linkedin.com/in/asfak-ahmed-731212245/">
+          <a href="https://www.linkedin.com/in/arbaz-khan-929565249?">
             <img src={linkedin} alt="" />
           </a>
-          <a href="https://github.com/asfak00">
+          <a href="https://github.com/azzupro">
             <img src={github} alt="" />
           </a>
         </div>
